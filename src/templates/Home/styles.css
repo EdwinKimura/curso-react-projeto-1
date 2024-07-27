@@ -1,0 +1,17 @@
+.container{
+    height: 100vh;
+    padding: 30px;
+    background-color: #eee;
+    overflow: auto;
+}
+
+.button-container{
+    min-height: 120px;
+    display: flex;
+    align-items: center;
+}
+
+.filter-container{
+    margin: 20px 0px;
+}
+
