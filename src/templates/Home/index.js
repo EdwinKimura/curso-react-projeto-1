@@ -30,7 +30,6 @@ export const Home = () => {
   }, []);
 
   useEffect(() => {
-
     // (async () => {
     //   try {
     //     await handleLoadPosts(0, postsPerPage);
